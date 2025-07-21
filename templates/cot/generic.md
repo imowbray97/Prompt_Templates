@@ -13,8 +13,11 @@ Here’s a reusable **template structure**:
 > **Let's think step by step.**
 >
 > **Step 1:** Identify the core goal or problem.
+>
 > **Step 2:** Break the problem into manageable parts or sub-questions.
+>
 > **Step 3:** Solve each part logically and sequentially.
+>
 > **Step 4:** Synthesize the parts into a final answer or output.
 >
 > **Final Answer:**
