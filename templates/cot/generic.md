@@ -32,9 +32,13 @@ Here’s a reusable **template structure**:
 > **Let's think step by step.**
 >
 > **Step 1:** Identify the core goal – when the two trains meet.
+>
 > **Step 2:** Train A travels 1 hour earlier at 60 mph → it covers 60 miles before Train B starts.
+>
 > **Step 3:** Remaining distance = 300 - 60 = 240 miles.
+>
 > **Step 4:** Trains now approach each other at a combined rate of 60 + 80 = 140 mph.
+>
 > **Step 5:** Time to meet = 240 ÷ 140 = 1.714 hours ≈ 1 hour 43 minutes.
 >
 > **Final Answer:** They meet at approximately 4:43 PM.
